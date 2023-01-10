@@ -22,4 +22,27 @@ Feel free to raise an issue if any questions or problems related to this repo.
 
 ## Reference
 
+
+
+```
+@article{DBLP:journals/corr/ZhangBHRV16,
+  author    = {Chiyuan Zhang and
+               Samy Bengio and
+               Moritz Hardt and
+               Benjamin Recht and
+               Oriol Vinyals},
+  title     = {Understanding deep learning requires rethinking generalization},
+  journal   = {CoRR},
+  volume    = {abs/1611.03530},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1611.03530},
+  eprinttype = {arXiv},
+  eprint    = {1611.03530},
+  timestamp = {Mon, 13 Aug 2018 16:47:02 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/ZhangBHRV16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
+
 [https://github.com/meng1994412/GoogLeNet_from_scratch](https://github.com/meng1994412/GoogLeNet_from_scratch)
