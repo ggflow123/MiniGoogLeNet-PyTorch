@@ -6,7 +6,7 @@ It's a PyTorch version of MiniGoogLeNet, adapted from Tensorflow version of Mini
 
 This notebook is highly inspired and referenced by the following link:
 
-https://github.com/meng1994412/GoogLeNet_from_scratch/blob/master/pipeline/nn/conv/minigooglenet.py
+[https://github.com/meng1994412/GoogLeNet_from_scratch/blob/master/pipeline/nn/conv/minigooglenet.py](https://github.com/meng1994412/GoogLeNet_from_scratch/blob/master/pipeline/nn/conv/minigooglenet.py)
 
 ## Introduction
 
@@ -21,8 +21,6 @@ For the usage of MiniGoogLeNet on MNIST dataset and [CIFAR-10 dataset](https://w
 Feel free to raise an issue if any questions or problems related to this repo.
 
 ## Reference
-
-
 
 ```
 @article{DBLP:journals/corr/ZhangBHRV16,
@@ -43,6 +41,5 @@ Feel free to raise an issue if any questions or problems related to this repo.
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
-
 
 [https://github.com/meng1994412/GoogLeNet_from_scratch](https://github.com/meng1994412/GoogLeNet_from_scratch)
